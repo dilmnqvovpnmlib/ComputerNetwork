@@ -1,7 +1,7 @@
 # ComputerNetwork
 
 ## 検証環境
-[TCP技術入門――進化を続ける基本プロトコル](https://github.com/dilmnqvovpnmlib/tcp-book) で公開されていた Vagrant で作成された環境を参考に Docker で TCP の輻輳制御アルゴリズムのシミュレーションの環境構築を行った。
+[TCP技術入門――進化を続ける基本プロトコル](https://github.com/dilmnqvovpnmlib/tcp-book) で公開されている Vagrant で作成された環境を参考に Docker で TCP の輻輳制御アルゴリズムのシミュレーションの環境構築を行った。
 
 以下のバージョンの Docker を使用した。
 - Docker version 19.03.12, build 48a66213fe
