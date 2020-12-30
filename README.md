@@ -16,3 +16,6 @@
 ## 起動コマンド
 - `docker build -t cn .`
 - `docker run -it --rm -v $(pwd):/home/vagrant/ns3/ns-allinone-3.27/ns-3.27/data cn bash`
+
+## シミュレーション実行コマンド (コンテナ内)
+- `python3 simulation.py`
