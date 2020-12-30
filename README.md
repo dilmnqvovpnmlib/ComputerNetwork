@@ -21,4 +21,4 @@
 - `python3 simulation.py`
 
 ## 参考
-- コンテナをビルドするのに時間がかかってしまうので、[Docker Hub](https://hub.docker.com/r/dilmnqvovpnmlib/cn) に Docker Image を push しました。
+- Dockerfile をビルドするのに時間がかかってしまうので、[Docker Hub](https://hub.docker.com/r/dilmnqvovpnmlib/cn) に Docker Image を push しました。
